@@ -1,10 +1,5 @@
 # RootSafer : Prevent duplicate access to root account
 
-<br/>
-<a href="https://httpie.io" target="blank_">
-    <img height="100" alt="HTTPie" src="https://raw.githubusercontent.com/httpie/httpie/master/docs/httpie-logo.svg" />
-</a>
-<br/>
 
 RootSafer is a command-line shell script.
 Its goal is to prevent duplicate access to root account at all unix-like system.
